@@ -1,3 +1,36 @@
+Task Management Application Documentation
+Introduction
+This documentation provides information on how to set up, run, and use the Task Management Application. The application is built using React.js for the frontend, Tailwind CSS for styling, and React Router DOM for navigation.
+Installation
+•	Download the Zip File
+	Download the project's zip file from the repository on GitHub.
+•	Install Dependencies
+	After downloading the project, navigate to the project directory in your terminal and run the following command to install all the necessary packages and dependencies required for the application to function properly:
+	npm install
+•	Run the Application Locally
+	To run the application on your local machine, use the following command in your terminal:
+	npm start
+This will start the development server and open the application in your default web browser.
+Task Management
+1.	Add a Task:
+	To add a task, click on the "Add Task" button.
+	Fill in the task details, such as title and description.
+	Click the "Save" button to add the task to the list.
+2.	View Task List:
+	To view the list of tasks, click on the "Task List" button.
+	You will see a list of all the tasks you've added.
+3.	Edit a Task:
+	To edit a task, click on the "Edit" button next to the task you want to modify.
+	Update the task details and click the "Save" button to save the changes.
+4.	Delete a Task:
+	To delete a task, click on the "Delete" button next to the task you want to remove.
+	Confirm the deletion, and the task will be removed from the list.
+Conclusion
+This documentation provides an overview of the Task Management Application, including installation and usage instructions. With this application, you can easily manage your tasks, including adding, viewing, editing, and deleting tasks.
+Happy task management!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
